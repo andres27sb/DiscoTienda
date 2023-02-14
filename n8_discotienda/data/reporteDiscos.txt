@@ -1,0 +1,7 @@
+Reporte de discos
+=================
+Nombre: Confessions on a Dance Floor Artista: Madonna Género: Pop
+Nombre: Push the Button Artista: The Chemical Brothers Género: Electrónica
+Nombre: Is This It Artista: The Strokes Género: Rock
+Nombre: Elephant Artista: The White Stripes Género: Rock
+Nombre: Todo a su tiempo Artista: Marc Anthony Género: Salsa
